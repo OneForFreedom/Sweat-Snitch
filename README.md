@@ -1,5 +1,8 @@
 # Sweat-Snitch
-Humidifier and temp reader. Flashes if temps are over 30 and 40 in degrees celsius
+
+Humidifier and Temp reader and projector, Top oled shows temp whilst bottom oled shows humidity. It also has a i2c multiplex because both oleds use the same lib.
+
+And no. This wont work if  you completely submerge it in water.
 
 ## Project Images
 
