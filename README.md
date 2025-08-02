@@ -2,7 +2,11 @@
 
 Humidifier and Temp reader and projector, Top oled shows temp whilst bottom oled shows humidity. It also has a i2c multiplex because both oleds use the same lib.
 
-And no. This wont work if  you completely submerge it in water.
+
+A border of one px will show if temps are over 30 degrees C and a border of 4px will show if temps are over 40 degrees C
+
+
+And no. This won't work if  you completely submerge it in water.
 
 ## Project Images
 
