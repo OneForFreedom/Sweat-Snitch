@@ -35,7 +35,7 @@ So I decided to restart from scratch. I used a cheaper, Economic type sensor Cal
 Here's an image of that:
 ![C82227_C82227-ÕýÃæ](https://github.com/user-attachments/assets/5dbfea81-b3fc-4df3-b62e-7ff033f14df1)
 
-I added a somewhat correct system to have pull ups, although it is a bit ambiguous on how it will work. So that will need fixing.
+I added a somewhat correct system to have pull ups.
 
 I also added another oled, added an i2c expander. and then redid the code. 
 
@@ -49,12 +49,14 @@ Time taken 9 Hours.
 
 # Entry 3, ONE. FINAL. ENTRY.
 
-Okay, so this is not retrospective (well technically it is, but its more close to the present timeline then the past)
+Okay, so I researched prices and made a proper bom. Not one jlc can read tho.
+I completed the readme
+I double checked every component then uploaded it onto github.
+I also added the arduino. Coded properly - I hope.
 
-In this entry im gonna:
+This is one hefty project. Give or take a few mins I spent around 1 hour doing all this.
 
-- Add a bom with prices and links, 
-- Complete my readme,
-- Finally finish actually making the pcb as it had a few errors.
+Time taken 1 hour
+Total time taken 15 Hours.
 
-
+I'll continue journalling the making process!
