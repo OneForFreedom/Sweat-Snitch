@@ -43,12 +43,13 @@ This took me around 8-10 hours (I'll say 9), Mainly cuz
 
 1. I suck at Hardware rn, and I'm still in that sort of kindergarden stage and
 2. I don't do alot of hardware as in elecricity, I'm more of a simple cad guy, although I do plan on one day using a server fan to use for a makeshift solder fume extractor. But for the meanwhile, Looks like im breathing it in.
+3. I had to learn ALOT of things on about this. Like libraries and i2c expanders.
 
 Time taken 9 Hours.
 
-# Entry 3, ONE. FINAL. EDIT.
+# Entry 3, ONE. FINAL. ENTRY.
 
-Okay, so this is not retrospective (well technically it is, but its more close to the present then the past)
+Okay, so this is not retrospective (well technically it is, but its more close to the present timeline then the past)
 
 In this entry im gonna:
 
