@@ -35,4 +35,25 @@ So I decided to restart from scratch. I used a cheaper, Economic type sensor Cal
 Here's an image of that:
 ![C82227_C82227-ÕýÃæ](https://github.com/user-attachments/assets/5dbfea81-b3fc-4df3-b62e-7ff033f14df1)
 
-I added a somewhat correct system to have pull ups
+I added a somewhat correct system to have pull ups, although it is a bit ambiguous on how it will work. So that will need fixing.
+
+I also added another oled, added an i2c expander. and then redid the code. 
+
+This took me around 8-10 hours (I'll say 9), Mainly cuz 
+
+1. I suck at Hardware rn, and I'm still in that sort of kindergarden stage and
+2. I don't do alot of hardware as in elecricity, I'm more of a simple cad guy, although I do plan on one day using a server fan to use for a makeshift solder fume extractor. But for the meanwhile, Looks like im breathing it in.
+
+Time taken 9 Hours.
+
+# Entry 3, ONE. FINAL. EDIT.
+
+Okay, so this is not retrospective (well technically it is, but its more close to the present then the past)
+
+In this entry im gonna:
+
+- Add a bom with prices and links, 
+- Complete my readme,
+- Finally finish actually making the pcb as it had a few errors.
+
+
