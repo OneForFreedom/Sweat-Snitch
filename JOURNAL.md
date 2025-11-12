@@ -49,14 +49,15 @@ Time taken 9 Hours.
 
 # Entry 3, ONE. FINAL. ENTRY.
 
-Okay, so I researched prices and made a proper bom. Not one jlc can read tho.
-I completed the readme
-I double checked every component then uploaded it onto github.
-I also added the arduino. Coded properly - I hope.
+- Okay, so I researched prices and made a proper bom. 
+- I completed the readme
+- I double checked every component then uploaded it onto github.
+- I also added the arduino. Coded properly - I hope.
 
 This is one hefty project. Give or take a few mins I spent around 1 hour doing all this.
 
 Time taken 1 hour
+
 Total time taken 15 Hours.
 
 I'll continue journalling the making process!
