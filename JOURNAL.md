@@ -53,11 +53,12 @@ Time taken 9 Hours.
 - I completed the readme
 - I double checked every component then uploaded it onto github.
 - I also added the arduino. Coded properly - I hope.
+- Oh yea, i also needed to fix a small thing regarding the pcb.
 
-This is one hefty project. Give or take a few mins I spent around 1 hour doing all this.
+This is one hefty project. Give or take a few mins I spent around 2 hours doing all this.
 
 Time taken 1 hour
 
-Total time taken 15 Hours.
+Total time taken 16 Hours.
 
 I'll continue journalling the making process!
