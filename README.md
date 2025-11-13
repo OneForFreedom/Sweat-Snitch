@@ -13,7 +13,8 @@ And no. This won't work if  you completely submerge it in water.
  ![3D Front View](/Images/3D%20F.png)
  ![3D Back View](/Images/3D%20B.png)
  ![Schematic](/Images/Schematic.png)
- ![PCB](/Images/PCB.png)
+ <img width="849" height="846" alt="image" src="https://github.com/user-attachments/assets/aed8f061-d6ef-49c9-8efa-8a48d0371f3a" />
+
 
  ## BOM (Bill Of Materials)
 
